@@ -4,7 +4,7 @@ High-performance RAG (Retrieval-Augmented Generation) microservice designed for 
 
 ## ⚡ Key Features
 - **Model:** BGE-M3 (Bi-Encoder) optimized for semantic mapping.
-- **Performance:** ~90ms latency on standard CPU (No GPU required).
+- **Performance:** ~1s latency on standard CPU (No GPU required).
 - **Architecture:** Dockerized microservice (FastAPI + ChromaDB).
 
 ## 🚀 Quick Start
