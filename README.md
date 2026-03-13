@@ -1,4 +1,4 @@
-# Pax Historia Semantic Search Engine
+# Semantic Search Engine
 
 High-performance RAG (Retrieval-Augmented Generation) microservice designed for low-latency semantic search on CPU.
 
