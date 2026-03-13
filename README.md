@@ -24,4 +24,3 @@ Language: Python 3.10
 Framework: FastAPI
 
 Container: Docker (Debian Slim)
-Private Repository.
